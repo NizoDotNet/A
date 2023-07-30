@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS';
+    line-height: 1.5;
+
+}
+ .header{
+    background-color: #3498DB;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+
+ }
+ .h1{
+    text-align: center;
+    margin: 0;
+
+ }
+
+ .section{
+padding: 1rem 2 rem;
+ }
+  .icerik{
+    padding: 1rem;
+  }
+
+  .section-accent {
+    background-color: #3498DB;
+color: white;
+margin: 0;
+
+}
+
+  .noqteler{
+    list-style: none;
+    font-size: 1.2rem;
+  }
+
+  .section-accent h2{
+    margin: 0;
+    text-align: center;
+  }
+  .section h2{
+    text-align: center;
+  }
+  .love{
+    list-style: none;
+    margin-bottom: 1rem;
+
+  }
+
+  .love :last-child{
+    margin: 0;
+  }
+  .forum{
+    margin: 1em 0;
+
+  }
+  .input{
+    border: 1px solid #ddd;
+    outline: auto;
+    padding: .5em;
+    font-size: 1rem;
+  }
+  .btn1{
+    border: 1px solid #ddd;
+    outline: auto;
+    padding: .5em;
+    font-size: 1rem;
+    font-family: inherit;
+    line-height: inherit;
+    resize: none;
+  }
+  .input:focus{
+    border-color:1px solid #2980B9;
+    box-shadow: 0 0 5px 0;
+  }
+  .btn1:focus{
+    border-color:1px solid #2980B9;
+    box-shadow: 0 0 5px 0;
+  }
+  .btn{
+background-color: #CACFD2;
+border: 1px solid #BDC3C7;
+color: white;
+padding: .5em 1em;
+cursor: pointer;
+  }
+  .btn:hover .btn1:focus{
+    background-color:#A6ACAF;
+    box-shadow: 0 0 5px 0 ;
+  }
+  
